@@ -1,0 +1,67 @@
+1698583477587	geckodriver	INFO	Listening on 127.0.0.1:54909
+1698583482626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THO~1\\AppData\\Local\\Temp\\rust_mozprofile2Jn1Jw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698583483431	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698583483487	Marionette	INFO	Listening on port 54922
+WebDriver BiDi listening on ws://127.0.0.1:54910
+Read port: 54922
+1698583483698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54910/devtools/browser/826427b2-7a39-40a7-bd1d-1f869ca26edb
+1698583503665	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1698583507673	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1698583513472	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/PromiseWorker.sys.mjs, line 102: Error: Could not get children of file(C:\Users\THO~1\AppData\Local\Temp\rust_mozprofile2Jn1Jw\thumbnails) because it does not exist
+1698583517703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1698583522888	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1698583524269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1698583524269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1698583527177	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1698583529419	Marionette	INFO	Stopped listening on port 54922
+JavaScript warning: https://www.leboncoin.fr/_next/static/chunks/framework-437056b84c855d3b.js, line 9: Script terminated by timeout at:
+64448/ow/<@https://www.leboncoin.fr/_next/static/chunks/framework-437056b84c855d3b.js:9:92918
+ow@https://www.leboncoin.fr/_next/static/chunks/framework-437056b84c855d3b.js:9:93381
+o3@https://www.leboncoin.fr/_next/static/chunks/framework-437056b84c855d3b.js:9:117898
+64448/n.hydrateRoot@https://www.leboncoin.fr/_next/static/chunks/framework-437056b84c855d3b.js:9:128016
+eh@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:13818
+15274/em/em</<@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:14125
+70655/v/u/</<@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:130962
+70655/v/u/<@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:131067
+n@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:135591
+u@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:135789
+11010/o/</<@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:135848
+11010/o/<@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:135729
+em@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:14295
+ev@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:13900
+15274/e_/e_</<@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:15935
+70655/v/u/</<@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:130962
+70655/v/u/<@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:131067
+n@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:135591
+u@https://www.leboncoin.fr/_next/static/chunks/main-1a2fdb05b5df402f.js:1:135789
+
+Dynamically enable window occlusion 1
+1698583556473	geckodriver	INFO	Listening on 127.0.0.1:55122
+1698583561366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THO~1\\AppData\\Local\\Temp\\rust_mozprofile7UWPNl"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698583561692	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698583561724	Marionette	INFO	Listening on port 55134
+WebDriver BiDi listening on ws://127.0.0.1:55123
+Read port: 55134
+1698583561864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55123/devtools/browser/49ee1957-1d83-4acd-8a5a-d983b02780a9
+1698583566630	Marionette	INFO	Stopped listening on port 55134
+Dynamically enable window occlusion 1
