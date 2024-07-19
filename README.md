@@ -1,3 +1,4 @@
+# OUTDATED / PLUS A JOUR
 # LBC-Scraper
 Vous voulez scrapper leboncoin ? Connaître la moyenne des prix et les extremum ?
 
